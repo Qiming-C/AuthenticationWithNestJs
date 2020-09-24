@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project is using `Passport` and `JWT` to implement the authentication user
 
 ## Installation
 
